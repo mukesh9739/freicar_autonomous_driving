@@ -1,7 +1,0 @@
-<launch>
-
-
-<node pkg="freicar_object_bb" type="rospubsub.py" name="bounding_box" output="screen"/>
-
-
-</launch>
